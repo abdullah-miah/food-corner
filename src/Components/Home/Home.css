@@ -19,3 +19,10 @@
     margin-right: 120px;
     gap: 20px;
 }
+.review-btn{
+    text-align: center;
+    margin-top: 50px;
+}
+.review-btn Link{
+    background-color: blue;
+}

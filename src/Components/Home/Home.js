@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useReview from '../../hooks/useReview';
 import '../Home/Home.css'
 import ReviewCart from '../Review-cart/ReviewCart';
@@ -32,6 +33,7 @@ const Home = () => {
             ></ReviewCart>)
         }
         </div>
+        <p className='review-btn'><Link to="/review"> More review..</Link></p>
             </div>
     );
 };
