@@ -1,15 +1,28 @@
 .Chart{
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    gap: 40px;
-    margin-left: 120px;
+    gap: 100px;
+    margin-left: 220px;
+    margin-right: 120px;
     margin-top: 50px;
+    width: 250px;
 }
 .line-chart{
     border: 1px solid gray;
-    padding: 20px;
+    padding:5px;
+    border-radius: 10px;
 }
 .line-chart h4{
     text-align: center;
     color: green;
+    font-size: 25px;
+    margin-top: 5px;
+}
+.Area-chart{
+    border: 1px solid gray;
+    padding:10px;
+    border-radius: 10px;
+}
+.area{
+   padding: 20px;
 }
