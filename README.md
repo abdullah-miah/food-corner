@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# Live website Link: 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://startling-pasca-295539.netlify.app/review
 
-## Available Scripts
+## About This Website
 
-In the project directory, you can run:
+*Best spice food website 
+*On time delivary
+*Fast delivary
+* Healthy food
+* Chipest price
+* 24 hours devlivary
 
 ### `npm start`
 
