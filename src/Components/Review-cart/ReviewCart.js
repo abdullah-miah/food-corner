@@ -8,8 +8,8 @@ const ReviewCart = (props) => {
             <img src={pic}></img>
             <div className='review-des'>
             <h4>Name: {name}</h4>
-            <p>{des}</p>
-            <span>Ratings: {ratings}</span>
+            <p className='des'>{des}</p>
+            <p>Ratings: <span>{ratings}</span></p>
             </div>
         </div>
     );

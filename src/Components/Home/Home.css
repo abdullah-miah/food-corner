@@ -8,9 +8,27 @@
 .home-content{
     margin-top: 50px;
 }
+.home-content h1{
+    color:rgba(0, 0, 255, 0.573);
+}
+.home-content button{
+    padding: 20px;
+    margin-top: 20px;
+    width: 200px;
+    background-color: skyblue;
+    color:#fff;
+    border-radius: 10px;
+}
+.home-content button:hover{
+    text-decoration: underline;
+}
+.home-pic img{
+    border-radius: 15px;
+}
 .review-title{
     text-align: center;
     margin-top: 50px;
+    color:rgba(0, 0, 255, 0.573);
 }
 .cart{
     display: grid;
@@ -22,6 +40,7 @@
 .review-btn{
     text-align: center;
     margin-top: 50px;
+    
 }
 .review-btn Link{
     background-color: blue;

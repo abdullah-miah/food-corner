@@ -5,7 +5,28 @@
     justify-content: space-between;
     align-items: center;
 }
+.header-section{
+   
+   border-bottom: 3px solid #faeeee;
+}
 .link a{
     margin-left: 20px;
     text-decoration: none;
+    font-size: 20px;
+}
+.link a:hover{
+    color:blue;
+    text-decoration: underline;
+    transition: 2s ease-out;
+}
+.logo h4{
+   color: blue;
+   font-size: 35px;
+   margin:0px;
+   padding: 10px;
+   
+}
+.logo h4 small{
+    color: green;
+    font-size: 20px;
 }

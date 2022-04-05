@@ -33,7 +33,9 @@ const Home = () => {
             ></ReviewCart>)
         }
         </div>
-        <p className='review-btn'><Link to="/review"> More review..</Link></p>
+        <p className='review-btn'>
+            <Link to="/review"> More review..</Link>
+            </p>
             </div>
     );
 };

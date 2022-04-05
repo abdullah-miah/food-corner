@@ -4,8 +4,9 @@ import '../Header/Header.css';
 
 const Header = () => {
     return (
-        <div className='header'>
-            <div className='logo'>
+        <div className='header-section' >
+          <div className='header'>
+          <div className='logo'>
               <h4>food <span>.</span> 
               <small> Corner</small>
               </h4>
@@ -15,8 +16,9 @@ const Header = () => {
                 <Link to ='/review'> REVIEWS</Link>
                 <Link to ='/dashboard' > DASHBOARD</Link>
                 <Link to ='/blogs' > BLOGS</Link>
-                <Link to ="/about">About</Link>
+                <Link to ="/about">ABOUT</Link>
             </div>
+          </div>
         </div>
     );
 };
