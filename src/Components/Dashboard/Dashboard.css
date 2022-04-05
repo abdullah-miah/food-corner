@@ -1,0 +1,15 @@
+.Chart{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 40px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.line-chart{
+    border: 1px solid gray;
+    padding: 20px;
+}
+.line-chart h4{
+    text-align: center;
+    color: green;
+}
