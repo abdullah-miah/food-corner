@@ -6,8 +6,7 @@
     align-items: center;
 }
 .header-section{
-   
-   border-bottom: 3px solid #faeeee;
+   border-bottom: 1px solid rgba(0, 0, 255, 0.189);
 }
 .link a{
     margin-left: 20px;
@@ -20,13 +19,13 @@
     transition: 2s ease-out;
 }
 .logo h4{
-   color: blue;
+   color: rgba(0, 0, 255, 0.573);
    font-size: 35px;
    margin:0px;
    padding: 10px;
    
 }
 .logo h4 small{
-    color: green;
+    color: skyblue;
     font-size: 20px;
 }

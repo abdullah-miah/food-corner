@@ -1,44 +1,44 @@
 [
     {
-        "name": "Abdur Rahim",
+        "name": "Alex Morgna",
         "id": 1,
         "pic": "https://thumbs.dreamstime.com/b/handsome-man-black-suit-white-shirt-posing-studio-attractive-guy-fashion-hairstyle-confident-man-short-beard-125019349.jpg",
         "des": "Food corner best e-food resturent in our area. Food quality awesome. Food delivary fast other then. ",
         "ratings": 4.5
     },
     {
-        "name": "Sajib",
+        "name": "Lerry Torros",
         "id": 2,
         "pic": "https://media.istockphoto.com/photos/fit-man-standing-outdoors-in-a-city-picture-id1299360127?b=1&k=20&m=1299360127&s=170667a&w=0&h=1Rvw_UPTnj1LkB543cuCjiLM0xbIdjjin0rw6yaL8bc=",
-        "des": "Food corner best e-food resturent in our area. Food quality awesome. Food delivary fast other then. ",
-        "ratings": 4.5
+        "des": " Food quality awesome. Food delivary fast other then.Food corner best e-food resturent in our area. ",
+        "ratings": 4.7
     },
     {
-        "name": "Sohel",
+        "name": "Devid kalimas",
         "id": 3,
         "pic": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "des": "Food corner best e-food resturent in our area. Food quality awesome. Food delivary fast other then. ",
-        "ratings": 4.5
+        "des": "Best E-food resturent in our country . Food quality delicious. Food delivary faster then other. ",
+        "ratings": 4.3
     },
     {
-        "name": "Mijan",
+        "name": "AB DI Rock",
         "id": 4,
         "pic": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "des": "Food corner best e-food resturent in our area. Food quality awesome. Food delivary fast other then. ",
+        "des": "Best Burger in this resturent in our area. Food quality Marvelous. Food delivary fast other then. Keep it up food corner ",
         "ratings": 4.5
     },
     {
-        "name": "Yeasin",
+        "name": "Watson Toxi",
         "id": 5,
         "pic": "https://images.unsplash.com/photo-1583864697784-a0efc8379f70?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1hbnxlbnwwfHwwfHw%3D&w=1000&q=80",
-        "des": "Food corner best e-food resturent in our area. Food quality awesome. Food delivary fast other then. ",
-        "ratings": 4.5
+        "des": "Awesome pasta in this resturent. Food quality awesome. Active delivary boy here. ",
+        "ratings": 4.8
     },
     {
-        "name": "Nazmul",
+        "name": "Miki Toxi",
         "id": 6,
         "pic": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
-        "des": "Food corner best e-food resturent in our area. Food quality awesome. Food delivary fast other then. ",
+        "des": " Best Chef in this resturent and best quality food. Food quality awesome. Food delivary faster then other. ",
         "ratings": 4.5
     }
 ]
