@@ -4,12 +4,13 @@ https://startling-pasca-295539.netlify.app/review
 
 ## About This Website
 
-*Best spice food website 
-*On time delivary
+
 *Fast delivary
 * Healthy food
 * Chipest price
 * 24 hours devlivary
+* Best spice food website 
+* On time delivary
 
 ### `npm start`
 
